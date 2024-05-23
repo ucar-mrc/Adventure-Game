@@ -16,15 +16,7 @@ public class Monster {
         this.award=award;
         this.maxNumber=maxNumber;
     }
-   /* public Monster(String name,int damage,int health,int award, int maxNumber)
-    {
-        this.setName(getName());
-        this.setDamage(getDamage());
-        this.setAward(getAward());
-        this.setHealth(getHealth());
-        this.setMaxNumber(getMaxNumber());
-    }
-*/
+ 
 
     public int monsterNumber()
     {
